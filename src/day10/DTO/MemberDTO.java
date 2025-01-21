@@ -1,4 +1,4 @@
-package day10;
+package day10.DTO;
 
 public class MemberDTO {
 }

@@ -1,4 +1,4 @@
-package day10.moviedto;
+package day10;
 
 public class MovieDTO {
     //영화제목
