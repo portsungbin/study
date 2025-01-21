@@ -20,6 +20,7 @@ public class InputMovieSc {
         System.out.println("영화 장르 입력");
         movie.gener = input.nextLine();
 
+
         return movie;
     }
 
