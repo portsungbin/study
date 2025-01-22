@@ -7,6 +7,7 @@ public class carDAO {
         this.carDTO = carDTO;
     }
 
+
     public void speedUp() {
         carDTO.setSpeed(carDTO.getSpeed()+1);
         System.out.println("속도 : " + carDTO.getSpeed());
